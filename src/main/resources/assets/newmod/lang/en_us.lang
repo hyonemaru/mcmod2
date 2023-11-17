@@ -1,0 +1,10 @@
+
+item.roarite_ingot.name=RoariteIngot
+item.sample.name=sample_item
+itemGroup.NewMod=NewModTab
+tile.roarite_ore_block.name=RoariteOre
+tile.sample_block.name=sample_block
+tile.roarite_block.name=RoariteBlock
+item.iron_rod.name=IronRod
+item.roarite_pickaxe.name=RoaritePickaxe
+item.roarite_shovel.name=RoariteShovel

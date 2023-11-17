@@ -1,0 +1,10 @@
+
+item.roarite_ingot.name=ロアライトインゴット
+item.sample.name=サンプルアイテム
+itemGroup.NewMod=NewModタブ
+tile.roarite_ore_block.name=ロアライト鉱石
+tile.sample_block.name=サンプルブロック
+tile.roarite_block.name=ロアライトブロック
+item.iron_rod.name=鉄棒
+item.roarite_pickaxe.name=ロアライトのツルハシ
+item.roarite_shovel.name=ロアライトのシャベル

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    " Y ",
+    " Y "
+  ],
+  "key": {
+    "#": {
+      "item": "newmod:roarite_ingot"
+    },
+    "Y": {
+      "item": "newmod:iron_rod"
+    }
+  },
+  "result": {
+    "item": "newmod:roarite_pickaxe"
+  }
+}

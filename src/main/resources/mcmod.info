@@ -1,0 +1,16 @@
+[
+{
+  "modid": "newmod",
+  "name": "New Mod",
+  "description": "this is my create mod",
+  "version": "1.0.2",
+  "mcversion": "1.12.2",
+  "url": "[New Mod]",
+  "updateUrl": "[Update]",
+  "authorList": ["Acashia Sunlid"],
+  "credits": "Thanks to Forge and Minecraft.",
+  "logoFile": "assets/newmod/textures/misc/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
